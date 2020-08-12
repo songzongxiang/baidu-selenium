@@ -1,0 +1,48 @@
+2020-08-12 17:20:36.890 [main-26] INFO  com.baidu.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-08-12 17:20:36.900 [main-22] INFO  com.baidu.listener.LogListener.onStart - ====================baidu-selenium开始====================
+2020-08-12 17:20:47.854 [main-164] INFO  com.baidu.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-08-12 17:20:48.454 [main-28] INFO  com.baidu.testcase.BaiduTest.beforeMethod - 进入 百度首页 页面
+2020-08-12 17:20:48.565 [main-33] INFO  com.baidu.listener.LogListener.onTestStart - ========com.baidu.testcase.BaiduTest.ContentListTest测试开始========
+2020-08-12 17:20:48.911 [main-44] INFO  com.baidu.listener.LogListener.onTestSuccess - ========com.baidu.testcase.BaiduTest.ContentListTest测试通过========
+2020-08-12 17:20:52.261 [main-197] INFO  com.baidu.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-08-12 17:20:52.262 [main-79] INFO  com.baidu.listener.LogListener.onFinish - ====================baidu-selenium结束====================
+2020-08-12 17:25:45.048 [main-26] INFO  com.baidu.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-08-12 17:25:45.057 [main-22] INFO  com.baidu.listener.LogListener.onStart - ====================baidu-selenium开始====================
+2020-08-12 17:25:52.633 [main-164] INFO  com.baidu.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-08-12 17:25:53.204 [main-28] INFO  com.baidu.testcase.BaiduTest.beforeMethod - 进入 百度首页 页面
+2020-08-12 17:25:53.354 [main-33] INFO  com.baidu.listener.LogListener.onTestStart - ========com.baidu.testcase.BaiduTest.ContentListTest测试开始========
+2020-08-12 17:25:53.849 [main-44] INFO  com.baidu.listener.LogListener.onTestSuccess - ========com.baidu.testcase.BaiduTest.ContentListTest测试通过========
+2020-08-12 17:25:56.584 [main-197] INFO  com.baidu.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-08-12 17:25:56.587 [main-79] INFO  com.baidu.listener.LogListener.onFinish - ====================baidu-selenium结束====================
+2020-08-12 17:26:35.020 [main-26] INFO  com.baidu.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-08-12 17:26:35.030 [main-22] INFO  com.baidu.listener.LogListener.onStart - ====================baidu-selenium开始====================
+2020-08-12 17:26:42.072 [main-164] INFO  com.baidu.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-08-12 17:26:42.608 [main-28] INFO  com.baidu.testcase.BaiduTest.beforeMethod - 进入 百度首页 页面
+2020-08-12 17:26:42.729 [main-33] INFO  com.baidu.listener.LogListener.onTestStart - ========com.baidu.testcase.BaiduTest.ContentListTest测试开始========
+2020-08-12 17:26:43.171 [main-44] INFO  com.baidu.listener.LogListener.onTestSuccess - ========com.baidu.testcase.BaiduTest.ContentListTest测试通过========
+2020-08-12 17:26:46.004 [main-197] INFO  com.baidu.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-08-12 17:26:46.021 [main-79] INFO  com.baidu.listener.LogListener.onFinish - ====================baidu-selenium结束====================
+2020-08-12 17:27:34.147 [main-26] INFO  com.baidu.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-08-12 17:27:34.157 [main-22] INFO  com.baidu.listener.LogListener.onStart - ====================baidu-selenium开始====================
+2020-08-12 17:27:41.443 [main-164] INFO  com.baidu.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-08-12 17:27:41.978 [main-28] INFO  com.baidu.testcase.BaiduTest.beforeMethod - 进入 百度首页 页面
+2020-08-12 17:27:42.080 [main-33] INFO  com.baidu.listener.LogListener.onTestStart - ========com.baidu.testcase.BaiduTest.ContentListTest测试开始========
+2020-08-12 17:27:42.591 [main-44] INFO  com.baidu.listener.LogListener.onTestSuccess - ========com.baidu.testcase.BaiduTest.ContentListTest测试通过========
+2020-08-12 17:27:48.408 [main-197] INFO  com.baidu.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-08-12 17:27:48.410 [main-79] INFO  com.baidu.listener.LogListener.onFinish - ====================baidu-selenium结束====================
+2020-08-12 17:29:00.063 [main-26] INFO  com.baidu.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-08-12 17:29:00.072 [main-22] INFO  com.baidu.listener.LogListener.onStart - ====================baidu-selenium开始====================
+2020-08-12 17:29:07.245 [main-164] INFO  com.baidu.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-08-12 17:29:08.438 [main-28] INFO  com.baidu.testcase.BaiduTest.beforeMethod - 进入 百度首页 页面
+2020-08-12 17:29:08.578 [main-33] INFO  com.baidu.listener.LogListener.onTestStart - ========com.baidu.testcase.BaiduTest.ContentListTest测试开始========
+2020-08-12 17:29:08.981 [main-44] INFO  com.baidu.listener.LogListener.onTestSuccess - ========com.baidu.testcase.BaiduTest.ContentListTest测试通过========
+2020-08-12 17:29:14.764 [main-197] INFO  com.baidu.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-08-12 17:29:14.801 [main-79] INFO  com.baidu.listener.LogListener.onFinish - ====================baidu-selenium结束====================
+2020-08-12 17:29:43.334 [main-26] INFO  com.baidu.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-08-12 17:29:43.343 [main-22] INFO  com.baidu.listener.LogListener.onStart - ====================baidu-selenium开始====================
+2020-08-12 17:29:50.548 [main-164] INFO  com.baidu.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-08-12 17:29:51.045 [main-29] INFO  com.baidu.testcase.BaiduTest.beforeMethod - 进入 百度首页 页面
+2020-08-12 17:29:51.179 [main-33] INFO  com.baidu.listener.LogListener.onTestStart - ========com.baidu.testcase.BaiduTest.ContentListTest测试开始========
+2020-08-12 17:29:51.613 [main-44] INFO  com.baidu.listener.LogListener.onTestSuccess - ========com.baidu.testcase.BaiduTest.ContentListTest测试通过========
+2020-08-12 17:29:57.351 [main-197] INFO  com.baidu.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-08-12 17:29:57.450 [main-79] INFO  com.baidu.listener.LogListener.onFinish - ====================baidu-selenium结束====================
