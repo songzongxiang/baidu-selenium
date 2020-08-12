@@ -46,3 +46,15 @@
 2020-08-12 17:29:51.613 [main-44] INFO  com.baidu.listener.LogListener.onTestSuccess - ========com.baidu.testcase.BaiduTest.ContentListTest测试通过========
 2020-08-12 17:29:57.351 [main-197] INFO  com.baidu.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
 2020-08-12 17:29:57.450 [main-79] INFO  com.baidu.listener.LogListener.onFinish - ====================baidu-selenium结束====================
+2020-08-12 17:43:27.293 [main-26] INFO  com.baidu.util.PropertiesReader.readProperties - 读取项目配置文件
+2020-08-12 17:43:27.334 [TestNG-tests-1-22] INFO  com.baidu.listener.LogListener.onStart - ====================baidu-selenium开始====================
+2020-08-12 17:43:27.335 [TestNG-tests-1-22] INFO  com.baidu.listener.LogListener.onStart - ====================baidu-selenium开始====================
+2020-08-12 17:43:35.164 [TestNG-tests-1-164] INFO  com.baidu.base.BaseDriver.startBrowser - 浏览器：chrome 成功启动！
+2020-08-12 17:43:38.602 [TestNG-tests-1-29] INFO  com.baidu.testcase.BaiduTest.beforeMethod - 进入 百度首页 页面
+2020-08-12 17:43:39.020 [TestNG-tests-1-33] INFO  com.baidu.listener.LogListener.onTestStart - ========com.baidu.testcase.BaiduTest.ContentListTest测试开始========
+2020-08-12 17:43:39.020 [TestNG-tests-1-33] INFO  com.baidu.listener.LogListener.onTestStart - ========com.baidu.testcase.BaiduTest.ContentListTest测试开始========
+2020-08-12 17:43:39.381 [TestNG-tests-1-44] INFO  com.baidu.listener.LogListener.onTestSuccess - ========com.baidu.testcase.BaiduTest.ContentListTest测试通过========
+2020-08-12 17:43:39.381 [TestNG-tests-1-44] INFO  com.baidu.listener.LogListener.onTestSuccess - ========com.baidu.testcase.BaiduTest.ContentListTest测试通过========
+2020-08-12 17:43:45.270 [TestNG-tests-1-197] INFO  com.baidu.base.BaseDriver.closeBrowser - chrome浏览器已成功关闭！
+2020-08-12 17:43:45.277 [TestNG-tests-1-79] INFO  com.baidu.listener.LogListener.onFinish - ====================baidu-selenium结束====================
+2020-08-12 17:43:45.277 [TestNG-tests-1-79] INFO  com.baidu.listener.LogListener.onFinish - ====================baidu-selenium结束====================
